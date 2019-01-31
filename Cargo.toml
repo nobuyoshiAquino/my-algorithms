@@ -1,0 +1,6 @@
+[package]
+name = "my-algorithms"
+version = "0.1.0"
+authors = ["Nobu Aquino <nobu-aquino@pm.me>"]
+
+[dependencies]
